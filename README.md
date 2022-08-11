@@ -30,3 +30,5 @@
   ![Snake animation](https://github.com/GuilhermeGCFS/GuilhermeGCFS/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<a href="https://guilherme-giovannini-protfolio.netlify.app/#home" target="_blank">Meu Portfólio</a>
