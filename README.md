@@ -21,7 +21,7 @@
   
 </div>
   
-  ##
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuilhermeGCFS&bg_color=333333&color=4c9e8e&line=47ffb9&point=66ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <div>  
   <a href = "mailto:guilhermegcfs@yahoo.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
