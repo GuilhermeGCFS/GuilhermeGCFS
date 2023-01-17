@@ -4,9 +4,9 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGCFS&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-<br />
+<br><br>
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuilhermeGCFS&bg_color=333333&color=4c9e8e&line=47ffb9&point=66ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br />
+<br><br>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
