@@ -8,9 +8,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeGCFS&show_icons=true&count_private=true&hide_border=true&title_color=7FFFD4&icon_color=7FFFD4&text_color=7FFFD4&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGCFS&layout=compact&hide_border=true&title_color=7FFFD4&text_color=7FFFD4&bg_color=0d1117" />
 </div>
-  
-<br><br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuilhermeGCFS&bg_color=0d1117&color=008B8B&line=008B8B&point=00e699&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <br>
 
 ##
