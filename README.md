@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA9A&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Giovannini,+24;I'm+a+FrontEnd+Developer+from+Brazil;I'm+graduating+at+systems+Development+and+Analysis;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-##
-
 <!-- <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeGCFS&show_icons=true&count_private=true&hide_border=true&title_color=7FFFD4&icon_color=7FFFD4&text_color=7FFFD4&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGCFS&layout=compact&hide_border=true&title_color=7FFFD4&text_color=7FFFD4&bg_color=0d1117" />
